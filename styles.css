@@ -1,8 +1,13 @@
-body{
+body {
 	background-color: black;
 }
 
 h1 {
-	color: white;
+	color: #cc0000;
 	margin-left: 20px;
+}
+
+p {
+	color: #33ccff;
+	font-size: 14px;
 }
